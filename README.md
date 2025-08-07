@@ -63,7 +63,7 @@ How to Use
 clone_model_safe ('IEEE9Bus_Original', 'IEEE9Bus_Cloned')
 full_model_copy ('IEEE9Bus_Original', 'IEEE9Bus_Cloned')
 ```
-you can do it for any model you want, not just an IEEEBus system. Make sure the source model, like in my case (`IEEE9Bus_Original.slx`), is on your MATLAB path and not already open.
+you can do it for any model you want. Make sure the source model, like in my case (`IEEE9Bus_Original.slx`), is on your MATLAB path and not already open.
 
 ---
 
